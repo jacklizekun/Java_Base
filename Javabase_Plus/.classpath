@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="One"/>
+	<classpathentry kind="src" path="Two"/>
+	<classpathentry kind="src" path="Three"/>
+	<classpathentry kind="src" path="Four"/>
+	<classpathentry kind="src" path="Five"/>
+	<classpathentry kind="src" path="Six"/>
+	<classpathentry kind="src" path="Seven"/>
+	<classpathentry kind="src" path="Eight"/>
+	<classpathentry kind="src" path="Nine"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
